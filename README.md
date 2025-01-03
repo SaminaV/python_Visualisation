@@ -68,6 +68,9 @@ Cela permet d'augmenter les **ventes croisées** (cross-sell) et d'inciter les c
 ### 5. Analyse des Produits Retournés et Satisfaction Client
 Étudier les **retours de produits** pour comprendre les raisons (qualité, attentes non satisfaites, problèmes logistiques) et ajuster les stratégies de production ou de livraison.
 
+![Capture d’écran 2025-01-03 à 15 38 59](https://github.com/user-attachments/assets/b49f3353-01db-4b83-81ee-ebdd50c579d2)
+
+
 ### 6. Scoring des Produits et Clients
 Scorer les clients pour identifier :
 - **Les clients VIP** ou les clients à risque de désengagement.
