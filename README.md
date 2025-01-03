@@ -26,11 +26,13 @@ Une attention particulière a été accordée aux **comparaisons avec les concur
 
 ### 1. Distribution du Prix Total
 La majorité des transactions se situent dans une fourchette de prix bas à modéré, indiquant une prépondérance de produits abordables.  
-**Conclusion :** Les produits de prix moyen sont les plus populaires auprès des clients.
+Les produits de prix moyen sont les plus populaires auprès des clients.
 
 ### 2. Tendance des Ventes dans le Temps
 Une **croissance continue des ventes** a été observée au fil des mois, suggérant soit une augmentation de la demande, soit des stratégies marketing efficaces.  
-**Action :** Poursuivre les efforts marketing et envisager des campagnes supplémentaires pour maintenir cet élan.
+
+![Capture d’écran 2025-01-03 à 15 36 09](https://github.com/user-attachments/assets/7b6541af-bddd-457c-9da6-f88448f0337f)
+
 
 ### 3. Tendances des Prix par Rapport aux Concurrents
 Une analyse comparative montre que **Compétiteur 1 (violet)** maintient les prix les plus bas, potentiellement pour attirer des clients sensibles au prix.  
