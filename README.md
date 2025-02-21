@@ -2,7 +2,7 @@
 
 ## Objectif
 
-L'objectif principal de ce projet est d'explorer, analyser et visualiser un jeu de données pour identifier des tendances clés, comprendre les comportements des clients et proposer des recommandations stratégiques basées sur des insights exploitables.
+L'objectif principal de ce projet est d'explorer, analyser et visualiser un jeu de données pour identifier des tendances clés, comprendre les comportements des clients et proposer des recommandations stratégiques.
 
 ## Méthodologie
 
